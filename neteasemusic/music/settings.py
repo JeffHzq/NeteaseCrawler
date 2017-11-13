@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',  # 或者使用 mysql.connector.django
         'NAME': 'music',
         'USER': 'root',
-        'PASSWORD': '802377',
+        'PASSWORD': '123456',
         'HOST':'192.168.2.104',
         'PORT':'3306',
     }
